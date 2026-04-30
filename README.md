@@ -17,8 +17,8 @@ Implements **HNSW**, **KD-Tree**, and **Brute Force** search algorithms side-by-
 
 ---
 
-![VectorDB Screenshot](https://i.imgur.com/placeholder.png)
-*← Replace this with a real screenshot of your UI after running the project*
+![VectorDB Screenshot](Project.png)
+
 
 </div>
 
